@@ -1,6 +1,6 @@
 {
   "name": "is-not-negative",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Checks if a number is not negative. All credit to is-not-positive for the inspiration",
   "repository": "matthew-hallsworth/is-not-negative",
   "author": "Matthew Hallsworth",
